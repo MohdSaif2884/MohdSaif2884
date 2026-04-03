@@ -1,12 +1,22 @@
-- Hi there, I'm Mohd Saif! 👋
-👀 I’m interested in competitive programming, problem-solving, and software development.
-🌱 I’m currently learning Python and diving deeper into data structures & algorithms.
-💞️ I’m looking to collaborate on open-source projects and LeetCode challenges.
-📫 How to reach me: mohdsaif28841@gmail.com
-😄 Pronouns: He/Him
- 
+ # Hi there, I'm Mohd Saif! 👋
 
-<!---
-MohdSaif2884/MohdSaif2884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  About Me
+-  Passionate about **Competitive Programming, Problem Solving, and Software Development**
+-  Currently learning **Python** and strengthening my understanding of **Data Structures & Algorithms**
+-  Continuously working on improving coding skills and building real-world projects
+
+##  Collaboration
+- Open to collaborating on:
+  - Open-source projects  
+  - LeetCode / DSA challenges  
+  - Beginner-friendly tech projects  
+
+##  Contact Me
+-  Email: mohdsaif28841@gmail.com  
+
+##  Pronouns
+- He/Him  
+
+---
+
+✨ *“Consistency and curiosity drive growth.”*
