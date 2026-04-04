@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
+ 
 <p align="left">✨ Creating bugs since 2023 — turning them into features  <br>📚 Currently exploring Python, DSA, and problem-solving strategies  <br>🎯 Goal: Master coding skills and build impactful tech projects  <br>🎲 Fun fact: Debugging feels like solving a mystery I actually enjoy 😄</p>
 
 ###
