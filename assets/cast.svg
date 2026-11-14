@@ -175,7 +175,7 @@ fill="#41b883">
 
 <animate attributeName="width"
 from="0"
-to="119.6"
+to="114.4"
 dur="1.4s"
 begin="0.4s"
 fill="freeze"/>
@@ -188,7 +188,7 @@ text-anchor="end"
 font-size="12"
 style="fill:#8a7a4a">
 
-23%
+22%
 
 </text>
 
