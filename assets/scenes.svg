@@ -2263,8 +2263,13 @@ y="162"
 width="14"
 height="14"
 rx="3"
-fill="#7a5f12">
+fill="#b8860b">
 
+
+<animate attributeName="opacity"
+values="1;.55;1"
+dur="4s"
+repeatCount="indefinite"/>
 
 
 </rect>
@@ -2287,7 +2292,7 @@ y="102"
 font-size="20"
 font-weight="700">
 
-950 days
+951 days
 
 </text>
 
@@ -2327,7 +2332,7 @@ y="202"
 font-size="20"
 font-weight="700">
 
-202
+203
 
 </text>
 
